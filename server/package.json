@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe_socket-io-server",
+  "version": "1.0.0",
+  "description": "This is basic NodeJS(express) server to run socketIO for tic-tac-toe(A game developed with ReactJS).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "reactjs",
+    "nodejs",
+    "socketio",
+    "expressjs"
+  ],
+  "author": "Ritesh Tailor",
+  "license": "ISC"
+}
